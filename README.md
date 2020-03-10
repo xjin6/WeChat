@@ -44,7 +44,7 @@ To use the API and data, please follow the form of citation:
 
 Fu, K. W., & Yun, T. (2018). Tracking Censorship of WeChat Public Accounts in China: A Computational Social Science’s Approach, Presented at the 2018 International Conference on Computational Social Science,12-15 July 2018, Evanston, Illinois, United States.
 
-While, people in Mainland China may not be able to get the access to this API due to the Great Wall. But just download the data and I'll keep updating. By the way, GitHub is a platform to make the academic, scientific, and technological discussion. Please do not publish any political view on my GitHub page though I am focusing on political communicaiton and public opinion. A right discussion should be made on right context and platform. Thanks.  
+While, people in Mainland China may not be able to get the access to this API due to the Great Wall. But just download the data and I'll keep updating. By the way, GitHub is a platform to make academic, scientific, and technological discussions. Please do not post any political view on my GitHub page though I am focusing on political communicaiton and public opinion. A right discussion should be made on right context and platform. Thanks a lot!  
 
 ----
 Xin Jin  
