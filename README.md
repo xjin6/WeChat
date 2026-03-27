@@ -46,10 +46,7 @@ Fu, K. W., & Yun, T. (2018). Tracking Censorship of WeChat Public Accounts in Ch
 
 While, people in Mainland China may not be able to get the access to this API due to the Great Wall. But just download the data and I'll keep updating. By the way, GitHub is a platform to make academic, scientific, and technological discussions. Please do not post any political view on my GitHub page though I am focusing on political communicaiton and public opinion. A right  and open discussion should be made on right context and platform. Thanks a lot!  
 
-中国大陆网友恐无法直接接入该API下载数据，但可以自由取用我已下载好的数据，我将持续更新。顺带着说一句，GitHub是一个交流学术，科学，与技术的平台。请勿在本人GitHub主页上发表任何政治言论，虽然本人的研究方向是政治传播与公众舆论。一个合理且开放的讨论，应该在一个合适的平台上展开。非常感谢！
+中国大陆网友恐无法直接接入该API下载数据，但可以自由取用我已下载好的数据，我将持续更新。
 
-----
 Xin Jin  
-Senior Research Assistant  
-Dept. Media and Communication, City Univ. HK  
-[About](www.xjin.tech) | [LinkedIn](linkedin.com/in/xjin613/) | [Twitter](https://twitter.com/xjin_comm) | xin.jin@cityu.edu.hk
+xjin6@outlook.com
